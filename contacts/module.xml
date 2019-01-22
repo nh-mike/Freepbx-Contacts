@@ -1,0 +1,16 @@
+
+<module>
+  <rawname>contacts</rawname>
+  <name>Contacts</name>
+  <version>19.01</version>
+  <publisher>City Toyota Perth</publisher>
+  <license>GPLv3+</license>
+  <licenselink>http://www.gnu.org/licenses/gpl-3.0.txt</licenselink>
+  <changelog>*19.01* Initial release</changelog>
+  <category>Applications</category>
+  <description>Fully Featured Contacts app compatible with FOP2</description>
+  <menuitems>
+    <contacts>Contacts</contacts>
+  </menuitems>
+  <supported>14.0</supported>
+</module>

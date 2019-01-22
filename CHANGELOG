@@ -1,0 +1,6 @@
+## [19.01]
+ - Released 22nd Jan 2019
+ - First public version of module
+ - Features include export to XML and LDAP
+ - Writes to MySQL Asterisk Database in visual_phonebook table (fop2 style)
+ - Designed for FreePBX 14
