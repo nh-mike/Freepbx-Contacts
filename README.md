@@ -27,6 +27,6 @@ If you wish to export to LDAP, configure inside the __construct function. All
 LDAP updates will be performed upon every update of the address book.
 
 Future updates will include:
-    -Integration of the XML export implementation
-    -A settings page for system administrators
-    -Module Signing? Maybe.
+* Integration of the XML export implementation
+* A settings page for system administrators
+* Module Signing? Maybe.
